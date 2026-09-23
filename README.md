@@ -21,5 +21,8 @@ Track partner referrals, commissions and pipeline attribution.
 - [Employee Engagement Pulse](https://github.com/Zion-support/employee-engagement-pulse) — https://ziontechgroup.com/employee-engagement-pulse/
 - [Incident Comms Writer](https://github.com/Zion-support/incident-comms-writer) — https://ziontechgroup.com/incident-comms-writer/
 
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [MSP & Partner Ecosystem](https://github.com/Zion-support/zion-network/blob/main/network/msp-partner-ecosystem.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
 ---
 © 2026 Zion Tech Group — https://ziontechgroup.com
